@@ -111,6 +111,4 @@ Using the dashboard, users can:
 
 **Nagham Zidiah**
 
-Senior Data Science & Artificial Intelligence Student
-
 LinkedIn: https://www.linkedin.com/in/nagham-zidiah-6585b3259/
